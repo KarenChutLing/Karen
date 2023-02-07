@@ -12,5 +12,7 @@ sales_tax = (price_good * (sales_tax/100))
 total_amount_to_pay = price_good + sales_tax
 print ("Total = "+ str (total_amount_to_pay"))
 
+name1 = input (" What is user name ? \n ")
+name2 = input (" What is user name ? \n ")
 
-
+#Hai
